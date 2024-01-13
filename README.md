@@ -1,4 +1,4 @@
 # TUGAS-AKHIR-PBO
-Puzzle Game
-Nama : Bintang Anugrah Ramadhan
-NIM  : 2200018077
+Puzzle Game\n
+Nama : Rido Isa Revananda\n
+NIM  : 2200018076

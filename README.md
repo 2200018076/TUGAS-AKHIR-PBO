@@ -1,4 +1,4 @@
 # TUGAS-AKHIR-PBO
-Puzzle Game\n
-Nama : Rido Isa Revananda\n
+Puzzle Game
+Nama : Rido Isa Revananda
 NIM  : 2200018076
